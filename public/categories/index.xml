@@ -22,5 +22,40 @@
       <guid>http://localhost:1313/categories/themes/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Cloudsec</title>
+      <link>http://localhost:1313/categories/cloudsec/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cloudsec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentations</title>
+      <link>http://localhost:1313/categories/presentations/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/presentations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/categories/videos/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/videos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>College Projects</title>
+      <link>http://localhost:1313/categories/college-projects/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/college-projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Projects</title>
+      <link>http://localhost:1313/categories/personal-projects/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/personal-projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

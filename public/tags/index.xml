@@ -36,5 +36,82 @@
       <guid>http://localhost:1313/tags/syntax/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Cloud Security</title>
+      <link>http://localhost:1313/tags/cloud-security/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cloud-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Defense in Depth</title>
+      <link>http://localhost:1313/tags/defense-in-depth/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/defense-in-depth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vcsp</title>
+      <link>http://localhost:1313/tags/vcsp/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vcsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virginia Cyber Security Partnership</title>
+      <link>http://localhost:1313/tags/virginia-cyber-security-partnership/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/virginia-cyber-security-partnership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>College</title>
+      <link>http://localhost:1313/tags/college/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radian6</title>
+      <link>http://localhost:1313/tags/radian6/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radian6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>http://localhost:1313/tags/social-media/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forex</title>
+      <link>http://localhost:1313/tags/forex/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Project</title>
+      <link>http://localhost:1313/tags/personal-project/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/personal-project/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

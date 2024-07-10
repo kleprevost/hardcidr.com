@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cybersecurity on HardCIDR</title>
+    <link>http://localhost:1313/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on HardCIDR</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VCSP Cloud Security Presentation</title>
+      <link>http://localhost:1313/posts/vcsp2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vcsp2017/</guid>
+      <description>Kyle LePrevost gives a presentation to the Virginia Cyber Security Partnership in 2017 regarding Cloud Security</description>
+    </item>
+    <item>
+      <title>Crossing Your Tees: Bug Hunting for Fashion</title>
+      <link>http://localhost:1313/posts/bonobos/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bonobos/</guid>
+      <description>I found a bug in a competition Bonobos sponsored and wound up with $500 in free clothes.</description>
+    </item>
+  </channel>
+</rss>

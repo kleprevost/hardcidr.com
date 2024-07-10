@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal Projects on HardCIDR</title>
+    <link>http://localhost:1313/categories/personal-projects/</link>
+    <description>Recent content in Personal Projects on HardCIDR</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trading Forex Based On Social Media Indicators</title>
+      <link>http://localhost:1313/posts/forex/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/forex/</guid>
+      <description>A brief overview of one of my college projects around trading FOREX using social media indicators. This project wound up getting $250k in VC funding, but fizzled out.</description>
+    </item>
+  </channel>
+</rss>

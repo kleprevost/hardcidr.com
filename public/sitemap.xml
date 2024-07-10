@@ -9,37 +9,88 @@
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/cloud-security/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/cloudsec/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gist/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/defense-in-depth/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/presentations/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/vcsp/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vcsp2017/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/video/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/videos/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/virginia-cyber-security-partnership/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/college/</loc>
+    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/college-projects/</loc>
+    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bonobos/</loc>
+    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/radian6/</loc>
+    <lastmod>2012-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-media/</loc>
+    <lastmod>2012-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vpdebate/</loc>
+    <lastmod>2012-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forex/</loc>
+    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-project/</loc>
+    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal-projects/</loc>
+    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/forex/</loc>
+    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/code/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/gist/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/syntax/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/syntax/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/themes/</loc>
   </url>
 </urlset>

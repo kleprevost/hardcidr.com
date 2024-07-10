@@ -16,11 +16,32 @@
       <description>Kyle LePrevost&amp;rsquo;s Resume</description>
     </item>
     <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>VCSP Cloud Security Presentation</title>
+      <link>http://localhost:1313/posts/vcsp2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vcsp2017/</guid>
+      <description>Kyle LePrevost gives a presentation to the Virginia Cyber Security Partnership in 2017 regarding Cloud Security</description>
+    </item>
+    <item>
+      <title>Crossing Your Tees: Bug Hunting for Fashion</title>
+      <link>http://localhost:1313/posts/bonobos/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bonobos/</guid>
+      <description>I found a bug in a competition Bonobos sponsored and wound up with $500 in free clothes.</description>
+    </item>
+    <item>
+      <title>Social Media Analysis of the 2012 Election</title>
+      <link>http://localhost:1313/posts/vpdebate/</link>
+      <pubDate>Wed, 24 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vpdebate/</guid>
+      <description>An analysis of the 2012 vice presidential debate from a social media perspective. This was a college project for Clemson&amp;#39;s Social Media Listening Center.</description>
+    </item>
+    <item>
+      <title>Trading Forex Based On Social Media Indicators</title>
+      <link>http://localhost:1313/posts/forex/</link>
+      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/forex/</guid>
+      <description>A brief overview of one of my college projects around trading FOREX using social media indicators. This project wound up getting $250k in VC funding, but fizzled out.</description>
     </item>
   </channel>
 </rss>
