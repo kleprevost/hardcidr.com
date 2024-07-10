@@ -1,7 +1,7 @@
 baseURL: "https://hardcidr.com/"
 title: HardCIDR
 paginate: 5
-theme: PaperMod
+theme: PaperMod2
 
 enableRobotsTXT: true
 buildDrafts: false
