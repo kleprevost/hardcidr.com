@@ -6,20 +6,76 @@
     <description>Recent content in Tags on HardCIDR</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distributed Hashcat</title>
+      <link>http://localhost:1313/tags/distributed-hashcat/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/distributed-hashcat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hashcat Cheap</title>
+      <link>http://localhost:1313/tags/hashcat-cheap/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hashcat-cheap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hashtopolis</title>
+      <link>http://localhost:1313/tags/hashtopolis/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hashtopolis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salad</title>
+      <link>http://localhost:1313/tags/salad/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salad.io</title>
+      <link>http://localhost:1313/tags/salad.io/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salad.io/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saladcloud</title>
+      <link>http://localhost:1313/tags/saladcloud/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/saladcloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vast.ai</title>
+      <link>http://localhost:1313/tags/vast.ai/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vast.ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vastai</title>
+      <link>http://localhost:1313/tags/vastai/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vastai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cloud Security</title>
       <link>http://localhost:1313/tags/cloud-security/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cloud-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersecurity</title>
-      <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>

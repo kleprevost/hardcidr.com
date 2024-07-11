@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Salad on HardCIDR</title>
+    <link>http://localhost:1313/tags/salad/</link>
+    <description>Recent content in Salad on HardCIDR</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/salad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SaladCat: Distributed Password Cracking on the Cheap Using Salad Cloud</title>
+      <link>http://localhost:1313/posts/saladcat/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/saladcat/</guid>
+      <description>I used Salad Cloud to build a distributed hashcat cracking setup for password cracking.</description>
+    </item>
+  </channel>
+</rss>
