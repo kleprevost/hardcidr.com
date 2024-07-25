@@ -11,7 +11,7 @@ TocOpen: false
 ---
 _Salad Cloud was notified about this vulnerability on June 26th and the issue was fully remediated on July 19th with the network upgrade to Salad agent version 1.6.1. Thanks to the Salad team for prioritizing the security of their "Chefs"!_ 
 
-# Context
+## Context
 
 I've been playing around with a startup cloud service called "Salad Cloud" recently - my last [blog post](https://hardcidr.com/posts/saladcat/) was about how I built a crazy fast hashcat cluster using their service. Salad allows "gamers" to rent out their GPUs on their service in exchange for gift cards, cash, and digital currency. Salad uses that compute power to run a distributed PaaS cloud - as a customer, you just provide Salad a Docker container image and hit "deploy". It works surprisingly well, and I've never seen anything quite like it in the industry before. 
 
@@ -19,7 +19,7 @@ Salad has invested a lot of time and energy into the security and privacy of cus
 
 Just from a terminology perspective - a "customer" is someone paying Salad to deploy containerized workloads, and a "Chef" is someone who is renting their gaming PC out to the Salad network. 
 
-# The Vulnerability
+## The Vulnerability
 
 Salad customers were given full access to a Chef's internal network on Salad versions 1.6.0 and earlier. It was possible for a customer to deploy a malicious container that could quickly scan and exploit vulnerable devices on a Chef's home network. This process could have been fully automated and was proven to only cost a couple dollars per day to pull off. 
 
@@ -27,7 +27,7 @@ As a proof of concept, I was able to deploy a Kali Linux container image onto th
 
 The fact that people at running vulnerable devices on their home networks wasn't surprising. The fact that I was able to: 1) deploy an obviously malicious container workload, 2) perform obviously malicious things in the container environment, and 3) go completely undetected WAS surprising. 
 
-# The Report and Fix
+## The Report and Fix
 
 I notified Salad of this vulnerability on June 26th. I heard back from Salad on July 3rd, then they rolled out version 1.6.1 which fixed the issue on July 19th. 
 
@@ -38,7 +38,7 @@ I outlined potential fixes that could address these issues in my vulnerability r
 
 I can confirm that the vulnerability no longer exists - Salad seems to have implemented #2 above in some capacity. I have also heard that process changes (similar to #1) are coming in the future, which would further reduce the risk posed to Chefs on the Salad network. 
 
-# Wrap Up and Final Thoughts
+## Wrap Up and Final Thoughts
 
 Salad does a great job with platform security given the inherent security risks associated with their business model. They also take the security of their customers and their "Chefs" seriously given the fast rollout of a fix for this vulnerability disclosure. Thanks to everyone on the Salad side for fixing this one up!
 
