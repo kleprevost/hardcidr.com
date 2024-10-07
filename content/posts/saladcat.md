@@ -66,6 +66,9 @@ A couple known issues if you are looking to replicate (or beat) my current 4090 
 
 ## What specs are the most cost-efficient?
 
+
+**10/07/24 EDIT: I recently did a more in depth analysis of Salad's pricing in relation to hashcat performance. You can find that [here](https://hardcidr.com/posts/saladcatupdate/).** 
+
 TLDR: the 4090 is the best bang-for-your-buck. You'll want to give it enough RAM and CPU cores, but even then it's the king of cost efficiency by a mile on the Salad platform. 
 
 The obvious cost-driver in a setup like this will be the GPU - the bigger and more modern GPUs will crack faster, but are also more expensive. What about the other hardware like CPU and RAM? There is a [long discussion over on the hashcat forums](https://hashcat.net/forum/thread-11041.html) that talks about the CPU/RAM specs required to get the most out of your GPU. The consensus seems to be: provision at least as much RAM as there is GPU VRAM (so a 24gb 4090 should have at least 24gb of system RAM) and at least 1 CPU core per GPU. 
