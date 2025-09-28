@@ -61,4 +61,4 @@ The only surprise here is the 3060ti, which generally isn't a great hashing card
 
 ## Conclusion
 
-I'm a big fan of Salad's latest pricing update - it's possible to a 1 TH/s of MD5 password cracking for $1.5/hr, which is insane. This could also be a great way to recover old Bitcoin wallet passwords as well - $40 worth of Salad Cloud credits should be able to crack any 8-character wallet.dat password. 
+I'm a big fan of Salad's latest pricing update - it's possible to a 1 TH/s of MD5 password cracking for $1.5/hr, which is insane. 
